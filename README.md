@@ -55,4 +55,9 @@ As a data scientist, LTFS  has tasked you with building a model given the Top-up
   - Beyond Voting,
   - Error Correlation,
   - Stacking
-- 
+
+
+
+[Note - Some files are not able to upload due to size more than 25MB. So ple have look into Google Drive]
+
+Google Drive Link - 
